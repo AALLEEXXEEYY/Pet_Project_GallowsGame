@@ -16,7 +16,7 @@
 
 Пример игры
 --------
-![img_1.png](img_1.png)
+![Img_1.png](Img_1.png)
 --------
 Реализация на Java, описание задания
 https://zhukovsd.github.io/java-backend-learning-course/Projects/Hangman/
